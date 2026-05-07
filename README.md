@@ -29,7 +29,7 @@ This project analyzes supermarket sales data using SQL and Power BI to identify 
 
 ## Dashboard Preview
 
-![Dashboard]("C:\Users\Tushar Parit\Desktop\DA PROJECTS\amazon sales data\Dashboard.png")
+![Dashboard]("Dashboard.png")
 
 ## Repository Structure
 
