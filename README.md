@@ -29,7 +29,7 @@ This project analyzes supermarket sales data using SQL and Power BI to identify 
 
 ## Dashboard Preview
 
-![Dashboard]("Dashboard.png")
+![Dashboard](Dashboard.png)
 
 ## Repository Structure
 
