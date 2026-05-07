@@ -27,6 +27,10 @@ This project analyzes supermarket sales data using SQL and Power BI to identify 
 - Sales peaked during morning hours
 - Customers purchased an average of 5.5 items per transaction
 
+## Dashboard Preview
+
+![Dashboard]("C:\Users\Tushar Parit\Desktop\DA PROJECTS\amazon sales data\Dashboard.png")
+
 ## Repository Structure
 
 - SQL Queries
